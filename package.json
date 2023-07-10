@@ -1,0 +1,17 @@
+{
+  "name": "codespaces-ts",
+  "version": "1.0.0",
+  "description": "Repositório de teste para o GH Codespaces com TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "codespaces",
+    "gh-codespaces",
+    "teste de repositorio"
+  ],
+  "author": "",
+  "license": "MIT"
+}
